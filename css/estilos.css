@@ -57,3 +57,9 @@ body
     text-align: center;
     padding: 0.5em;
 }
+#equipo
+{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
